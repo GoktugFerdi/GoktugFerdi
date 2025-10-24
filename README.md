@@ -1,4 +1,4 @@
-<h1 align="center">I'm Göktuğ Ferdi Uylaş</h1>
+<h1 align="center"> Hello 👋 , I'm Göktuğ Ferdi Uylaş</h1>
 <h3 align="center">A Game Developer and Computer Engineering Student at Erciyes University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goktugferdi" alt="goktugferdi" /></a> </p>
@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Unity**
 
-- 📫 How to reach me **realferdigoktug@gmail.com**
+- 📫Reach Me **realferdigoktug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/göktuğ ferdi uylaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="göktuğ ferdi uylaş" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/göktuğ-ferdi-uylaş-a71328297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="göktuğ ferdi uylaş" height="30" width="40" /></a>
 <a href="https://instagram.com/goktugferd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goktugferd1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ferdizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ferdizm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ferdizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ferdizm" height="30" width="40" /></a>
