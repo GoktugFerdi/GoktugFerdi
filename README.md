@@ -1,25 +1,27 @@
-<h1 align="center">Hello 👋 , I'm Göktuğ Ferdi Uylaş</h1>
-<h3 align="center">A Game Developer and Computer Engineering Student at Erciyes University</h3>
+# Hello there! I'm Göktuğ Ferdi Uylaş 👋
 
-- 🌱 I’m currently learning **Unreal Engine 5 , HTML5(For Web Games), JavaScript**
+I'm a **Computer Engineering Student** with a huge passion for building things. I am actively progressing and focusing my work in the fields of **Game Development** and **Artificial Intelligence**. I love exploring new mechanics, designing systems, and bringing creative ideas to life! 
 
-- 💬 Ask me about **Unity**
+### 💻 Languages I'm Familiar With
 
-- 📫 How to reach me **realferdigoktug@gmail.com**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-ferdi-uyla%C5%9F-a71328297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="göktuğ-ferdi-uylaş" height="30" width="40" /></a>
-<a href="https://instagram.com/goktugferd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goktugferd1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ferdizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ferdizm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ferdizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ferdizm" height="30" width="40" /></a>
-</p>
+### 🚀 Technologies I Use
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goktugferdi&show_icons=true&locale=en&layout=compact" alt="goktugferdi" /></p>
+### 📫 How to Reach Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goktugferdi&show_icons=true&locale=en" alt="goktugferdi" /></p>
+I'm always open to discussing new projects, creative ideas, or opportunities! Feel free to reach out:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goktugferdi&" alt="goktugferdi" /></p>
+- **Email:** [realferdigoktug@gmail.com](mailto:realferdigoktug@gmail.com)
+- **LinkedIn:** [Göktuğ Ferdi Uylaş](https://www.linkedin.com/in/göktuğ-ferdi-uylaş-a71328297)
+
+---
+⭐️ *Thanks for visiting my profile!*
